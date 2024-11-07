@@ -23,7 +23,7 @@
 
 
 ## Linkki projektiin:
-- Tähän linkki
+- https://github.com/jimiheikkila/Keilauslaskuri
 
 ## Käytännön toteutuksen selostus
 
